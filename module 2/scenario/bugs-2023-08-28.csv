@@ -1,0 +1,24 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+1,normal,---,Windows,abc@gmail.com,NEW,---,click log in button without fill any details it's show arror
+2,normal,---,Windows,abc@gmail.com,NEW,---,after enter valid details it should show home page
+3,minor,---,Windows,abc@gmail.com,NEW,---,after login i hover cursur on logo it show clickebility
+4,minor,---,Windows,abc@gmail.com,NEW,---,after login click logo  to refresh page
+5,minor,---,Windows,abc@gmail.com,NEW,---,after hover on cart option is show clickebility with finger cursur
+6,minor,---,Windows,abc@gmail.com,NEW,---,After click on down symbol it show all  option
+7,minor,---,Windows,abc@gmail.com,NEW,---,After click on down symbol it show all  option
+8,normal,---,Windows,abc@gmail.com,NEW,---,after open menu option and scroll down home page so footer is not show proper it cut
+9,normal,---,Windows,abc@gmail.com,NEW,---,after open menu option and scroll down home page so footer is not show proper it cut
+10,critical,---,Windows,abc@gmail.com,NEW,---,open menu option click on all items it's should show respected page
+14,normal,---,Windows,abc@gmail.com,NEW,---,"in product details page, image not show  setting and visual search"
+11,normal,---,Windows,def@gmail.com,NEW,---,open sauce lads web and check header option by hover cursur on header option
+12,major,---,Windows,def@gmail.com,NEW,---,"after open sauce lads, hover cursur on header option when i hover on pricing itn't open automatecally but it's show clickbility"
+13,critical,---,Windows,def@gmail.com,NEW,---,open menu option click on reset app state it not respond anything
+15,critical,---,Windows,ghi@gmail.com,NEW,---,after click on checkout button it redirect new page but it still show error that without any product you not done checkout
+16,major,---,Windows,ghi@gmail.com,NEW,---,after add product show cart page it show proper discription but image is missing
+17,critical,---,Windows,ghi@gmail.com,NEW,---,"in this web one product add only one time, we do not add same product again."
+18,minor,---,Windows,ghi@gmail.com,NEW,---,"in this web one product add only one time, we do not add same product again."
+19,normal,---,Windows,ghi@gmail.com,NEW,---,after open checkout page and click on continue button without fill any details it show error that details are missing
+20,major,---,Windows,ghi@gmail.com,NEW,---,after open checkout page typing in first name there is no limitation and validation
+21,major,---,Windows,ghi@gmail.com,NEW,---,after open checkout page typing in last name there is no limitation and validation
+22,major,---,Windows,ghi@gmail.com,NEW,---,after open checkout page typing in Zip/postel there is no limitation and validation
+23,critical,---,Windows,ghi@gmail.com,NEW,---,after open check out page there is address formet is misssing it have only ziop/postel cade in not valid for delivery
